@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 玉芝堂談薈
-#+DATE: 2019-03-29 21:37:53.694199
+#+DATE: 2019-03-29 21:37:54.313729
 #+PROPERTY: ID KR3j0186
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3j0186_WYG_000-1a>¶
 　　欽定四庫全書　　　　子部十¶
